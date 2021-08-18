@@ -1,0 +1,3 @@
+﻿Delta-Carnauba
+
+2021-08-16	Model01	Delta Undulator with gap=7mm, period=22mm, length=1200mm and 4 blocks terminations
